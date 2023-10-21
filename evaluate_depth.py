@@ -27,8 +27,7 @@ cv2.setNumThreads(0)
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--image_path',
-                        # default=r"G:\depth_map_166to428\wrj_img",
-                        default=r"H:\Datasets\UAV ula\depth_map_430to506",
+                        default=r"test\wrj_img",
                         type=str,
                         help='测试图片路径或者文件夹路径')
     parser.add_argument('--model_folder',
