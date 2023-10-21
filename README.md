@@ -6,8 +6,8 @@
 
 ## Datasets
 
-1. [UAVid 2020] (https://uavid.nl/)
-2. [WildUAV] (https://github.com/hrflr/wuav)
+1. [UAVid 2020](https://uavid.nl/)
+2. [WildUAV](https://github.com/hrflr/wuav)
 3. [UAV ula](https://github.com/takisu0916/UAV_ula)
 
 
